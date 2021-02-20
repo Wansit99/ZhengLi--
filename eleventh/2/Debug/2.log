@@ -1,0 +1,4 @@
+﻿  2.cpp
+C:\Users\wwwwssssww\Desktop\c++\eleventh\2\2.cpp(39,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wwwwssssww\Desktop\c++\eleventh\2\2.cpp(17): warning C4715: “Student::operator<”: 不是所有的控件路径都返回值
+  2.vcxproj -> C:\Users\wwwwssssww\Desktop\c++\eleventh\ConsoleApplication1\Debug\2.exe
